@@ -21,17 +21,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>High Level List of Steps</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Download and install the Rewrite Module
-- Allow anyone to create tickets
-- Configure Agents (workers)
-- Configure Users (customers)
-- Configure SLAs
-- Configure Help Topics
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
 
-<h2>Configuration Visual Walkthrough</h2>
+<h2>Visual Walkthrough</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png"/>
