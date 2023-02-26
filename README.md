@@ -5,9 +5,9 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. If you haven't already completed the installation/setup and configuration, go ahead and go back to my previous tutorial linked below.</p>
 
-Side note: this one is going to be super short, it is really to just get you started so you can do some practice on your own. Oh, and don't forget to delete your resources in Azure or at least turn off the VM so you don't get any extra charges.
-
 - [osTicket: Prerequisites and Installation](https://github.com/jacksonmalms/osticket-prereqs) (The end of this will lead you to the next tutorial, and from that next one, to here.)
+
+Side note: this one is going to be super short, it is really to just get you started so you can do some practice on your own. Oh, and don't forget to delete your resources in Azure or at least turn off the VM so you don't get any extra charges.</p>
 
 <h2>Environments and Technologies Used</h2>
 
